@@ -1,0 +1,1997 @@
+[
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"White / Brown",
+    "Date":"3/29/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/29/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Tortie / White",
+    "Date":"3/29/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/29/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black",
+    "Date":"3/29/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Tan",
+    "Date":"3/29/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"5 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black",
+    "Date":"3/29/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Brown / White",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Color":"Unknown",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"NO AGE",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Brn Tabby",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gray",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Rabbit Sh",
+    "Age":"6 MONTHS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"White / Black",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"12 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Brn Tabby / White",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"White / Tan",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"White / Tan",
+    "Date":"3/28/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/27/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Dilute Tor",
+    "Date":"3/27/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Brn Tabby / White",
+    "Date":"3/27/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/27/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"NO AGE",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Gray Tabby / White",
+    "Date":"3/27/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"5 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Tan",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"11 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Tortie",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Red / White",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Bird",
+    "Age":"1 YEAR",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Yellow / Green",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Lop-Mini",
+    "Age":"NO AGE",
+    "Animal_Gender":"Unaltered",
+    "Animal_Color":"Gray",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Brn Tabby / White",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Gray Tabby / White",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"1 YEAR",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black / White",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"6 MONTHS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black / White",
+    "Date":"3/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"7 MONTHS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gold",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Org Tabby / White",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Black / White",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Dog",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Brown",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Dog",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gold",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"5 MONTHS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Brn Tabby",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"9 MONTHS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"White / Black",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Color":"White / Unknown",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Brn Tabby / White",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"9 MONTHS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"White / Black",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"5 MONTHS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gray Tabby",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"1 YEAR 6 MONTHS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Br Brindle / White",
+    "Date":"3/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Brown / White",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Brown / Black",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Org Tabby / White",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Black / White",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"14 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Orange / White",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Gray / White",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"NO AGE",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Gray Tabby",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"5 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Orange / White",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Gray / White",
+    "Date":"3/24/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"White / Black",
+    "Date":"3/23/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"7 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black",
+    "Date":"3/23/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/23/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"1 YEAR",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/23/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/23/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"27 DAYS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"White / Black",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"6 MONTHS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Seal Pt / Black",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"27 DAYS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Gray / White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Dog",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black / Tan",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"27 DAYS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black / White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"27 DAYS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black / White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Dog",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Brn Tabby / White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"27 DAYS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black / White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Brn Tabby / White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"27 DAYS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"13 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Gray",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black",
+    "Date":"3/21/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Brown / White",
+    "Date":"3/21/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/21/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Color":"White / Unknown",
+    "Date":"3/21/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Guinea Pig",
+    "Age":"NO AGE",
+    "Animal_Gender":"Unaltered",
+    "Animal_Color":"Red",
+    "Date":"3/21/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Guinea Pig",
+    "Age":"NO AGE",
+    "Animal_Gender":"Unaltered",
+    "Animal_Color":"Red",
+    "Date":"3/21/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/21/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Brn Tabby / White",
+    "Date":"3/20/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/19/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/19/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Lynx Pt",
+    "Date":"3/19/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/19/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"White / Black",
+    "Date":"3/18/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gray Tabby",
+    "Date":"3/18/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gray Tabby",
+    "Date":"3/18/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Dog",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / Red",
+    "Date":"3/18/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/18/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/17/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/17/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/17/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/16/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/16/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/16/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black / White",
+    "Date":"3/16/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/16/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"12 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Tan / White",
+    "Date":"3/16/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/15/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Dog",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Sable",
+    "Date":"3/15/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"14 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Dilute Tor / White",
+    "Date":"3/15/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/15/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/15/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"14 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Dilute Tor / White",
+    "Date":"3/15/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/14/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"White / White",
+    "Date":"3/14/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"White",
+    "Date":"3/14/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/14/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Dog",
+    "Age":"NO AGE",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / Brown",
+    "Date":"3/14/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"5 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black",
+    "Date":"3/14/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/14/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/13/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/13/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/13/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/12/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"6 MONTHS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Black / White",
+    "Date":"3/12/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/12/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"5 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Gray Tabby",
+    "Date":"3/12/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Brown",
+    "Date":"3/12/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/12/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/12/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black",
+    "Date":"3/12/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"1 YEAR",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black",
+    "Date":"3/11/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Brown / White",
+    "Date":"3/11/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gray / White",
+    "Date":"3/11/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Gray / White",
+    "Date":"3/11/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Gray / White",
+    "Date":"3/11/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/11/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/11/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Brn Tabby",
+    "Date":"3/10/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"12 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gray / Black",
+    "Date":"3/10/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"NO AGE",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Tortie",
+    "Date":"3/10/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/9/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/8/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black / Brown",
+    "Date":"3/8/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/8/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/8/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"15 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Red",
+    "Date":"3/8/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/7/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Org Tabby / White",
+    "Date":"3/7/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Goat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Brown / White",
+    "Date":"3/7/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"11 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Orange",
+    "Date":"3/7/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/7/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/7/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/6/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Dog",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Bl Brindle / White",
+    "Date":"3/5/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Cat",
+    "Age":"5 YEARS",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Gray",
+    "Date":"3/5/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/5/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / Brown",
+    "Date":"3/5/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/5/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/5/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Dog",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Male",
+    "Animal_Color":"White",
+    "Date":"3/5/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Tan / White",
+    "Date":"3/4/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/4/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/3/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/3/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/3/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/2/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"1 YEAR",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black",
+    "Date":"3/2/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/2/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"1 YEAR",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black",
+    "Date":"3/2/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dead Dog",
+    "Age":"8 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black",
+    "Date":"3/2/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/1/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"3/1/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/1/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/1/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/1/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"3/1/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Gender":"Female",
+    "Animal_Color":"White",
+    "Date":"3/1/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"White",
+    "Date":"3/1/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/29/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/29/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Dog",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Red / White",
+    "Date":"2/29/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/29/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Black / White",
+    "Date":"2/28/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/28/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/28/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/27/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"2 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gray / White",
+    "Date":"2/27/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/27/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/27/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"White / Brown",
+    "Date":"2/26/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"White / Black",
+    "Date":"2/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/26/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black",
+    "Date":"2/26/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"3 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"White / Black",
+    "Date":"2/26/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/25/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/25/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/25/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/25/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Color":"Unknown",
+    "Date":"2/25/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Unknown",
+    "Animal_Color":"Black",
+    "Date":"2/25/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/24/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/24/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/23/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/22/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"4 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Tortie",
+    "Date":"2/21/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/21/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Black / Black",
+    "Date":"2/21/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/21/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/20/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/20/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/20/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/20/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/19/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Brown / White",
+    "Date":"2/19/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"White",
+    "Date":"2/19/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/19/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/19/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Black",
+    "Date":"2/19/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"6 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Black",
+    "Date":"2/19/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Unknown",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/18/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Brown",
+    "Date":"2/18/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/17/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/17/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"White / Brown",
+    "Date":"2/16/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"White / Brown",
+    "Date":"2/16/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/16/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Black / White",
+    "Date":"2/16/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Cat",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Male",
+    "Animal_Color":"Unknown",
+    "Date":"2/16/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"Under 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/16/2016 0:00"
+  },
+  {
+    "Record_Type":"LOST",
+    "animal_type":"Dog",
+    "Age":"Over 1 year",
+    "Animal_Gender":"Female",
+    "Animal_Color":"Unknown",
+    "Date":"2/15/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"12 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"White",
+    "Date":"1/16/2016 0:00"
+  },
+  {
+    "Record_Type":"FOUND",
+    "animal_type":"Cat",
+    "Age":"12 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"White",
+    "Date":"1/16/2016 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"13 YEARS",
+    "Animal_Gender":"Neutered Male",
+    "Animal_Color":"Gray",
+    "Date":"12/29/2015 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"1 YEAR 4 MONTHS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Tortie",
+    "Date":"11/24/2015 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"5 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Gray Tabby",
+    "Date":"9/8/2015 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"10 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Black / White",
+    "Date":"6/19/2015 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"13 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Gray",
+    "Date":"4/23/2015 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"13 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Tortie",
+    "Date":"3/18/2015 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"7 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Calico",
+    "Date":"11/2/2014 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"9 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Blue / White",
+    "Date":"4/26/2014 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"14 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Brn Tabby / White",
+    "Date":"2/28/2014 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"16 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Black / White",
+    "Date":"8/31/2013 0:00"
+  },
+  {
+    "Record_Type":"ADOPTABLE",
+    "animal_type":"Cat",
+    "Age":"13 YEARS",
+    "Animal_Gender":"Spayed Female",
+    "Animal_Color":"Black",
+    "Date":"5/11/2013 0:00"
+  }
+]
